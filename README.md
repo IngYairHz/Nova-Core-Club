@@ -31,6 +31,14 @@ Dentro del club realizamos actividades como:
 
 ---
 
+## 📅 Calendario de actividades
+
+Puedes consultar nuestro calendario de talleres, eventos y actividades del club:
+
+[📄 Ver calendario de actividades](calendario/CalendarioNovaCore.pdf)
+
+---
+
 ## 💻 Áreas de interés
 
 - Desarrollo de software
